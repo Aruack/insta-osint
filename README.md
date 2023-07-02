@@ -17,10 +17,10 @@ sudo apt install git python3 -y
 pip install requests
 ```
 ```
-git clone https://github.com/Aruack/Insta-Osint.git
+git clone https://github.com/Aruack/insta-osint.git
 ```
 ```
-cd Insta-Osint
+cd insta-osint
 ```
 ```
 python3 insta-osint.py
@@ -41,10 +41,10 @@ pip install requests
 git clone https://github.com/Aruack/Insta-Osint.git
 ```
 ```
-cd Insta-Osint
+cd insta-osint
 ```
 ```
-python3 insta-osinr.py
+python3 insta-osint.py
 ```
 
 ## USEAGE :
